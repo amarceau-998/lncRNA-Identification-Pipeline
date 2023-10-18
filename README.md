@@ -1,7 +1,8 @@
 # lncRNA-Identification-Pipeline-main
-Collection of scripts used to identify lncRNA 
+This repository is predominantly a collection of scripts used to identify lncRNA <br>
+It also houses a pdf of a plain language tutorial written for the identification of lncRNA from RNASeq data.<br>
 
-I did not create any of the scripts in this repository, they have been created and gathered by other researchers and passed along to me.
+Although I did compile the resources and write the tutorial, I did not create any of the scripts in this repository. They have been created and gathered by other researchers and passed along to me.
 Each script has the original author in the file, I implore you to read the preamble to understand who the script came from originally.
 
 The scripts are as follows:<br>
